@@ -5,7 +5,7 @@
 ---
 ## Historia:
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
- > -Nuestra compania empezo como una empresa familiar entre 2 (dos)hermanos. asdkjhasdaljkdasghdjkasdglajdasjhgasjlhkdsadsa
+ > -Nuestra compania empezo como una empresa familiar entre 2 (dos)hermanos. 
  ---
 
  > -Recursos humanos: Son la base fundamental de nuestr empresa, ya que todos los trabajadores se encuentran ampleamente pacasitados para las distintas tareas a realizar sindo supervisados de manera permanente por intaladores matriculados abalados por ERSEP (Ente Regulador de los Servicios Públicos) y ECOGAS.    
