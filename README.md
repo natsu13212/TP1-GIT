@@ -57,3 +57,4 @@
 ## Enlaces
 ### Paleta de colores.
 [paleta de colores](https://mycolor.space/?hex=%231500FF&sub=1 "paleta gradient")
+tp de figma: https://www.figma.com/file/vcUWext3nSOOpasNIfGJ5G/Erik-Forsberg?type=design&node-id=0-1&t=cskn5C9ytnya725m-0
